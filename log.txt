@@ -1,0 +1,54 @@
+ožu 26, 2023 8:24:29 PM main.Main main
+INFO: Pokrenut program
+ožu 26, 2023 8:24:29 PM main.Main main
+WARNING: Greska: Negativna plaća
+ožu 26, 2023 8:29:36 PM main.Main main
+INFO: Pokrenut program
+ožu 26, 2023 8:29:36 PM main.Main main
+WARNING: Greska: Zaposlenik nemože imati negativnu plaću
+ožu 26, 2023 8:29:36 PM main.Main main
+INFO: Kraj programa.
+ožu 26, 2023 8:31:07 PM main.Main main
+INFO: Pokrenut program
+ožu 26, 2023 8:31:07 PM main.Main main
+INFO: Marko Mara
+ožu 26, 2023 8:31:07 PM main.Main main
+WARNING: Greska: Zaposlenik nemože imati negativnu plaću
+ožu 26, 2023 8:31:07 PM main.Main main
+INFO: Kraj programa.
+ožu 26, 2023 8:35:45 PM main.Main main
+INFO: Pokrenut program
+ožu 26, 2023 8:35:45 PM main.Main main
+INFO: Marko Mara
+ožu 26, 2023 8:35:45 PM main.Main main
+WARNING: Greska: Zaposlenik nemože imati negativnu plaću
+ožu 26, 2023 8:35:45 PM main.Main main
+INFO: Kraj programa.
+ožu 26, 2023 8:36:08 PM main.Main main
+INFO: Pokrenut program
+ožu 26, 2023 8:36:08 PM main.Main main
+INFO: Marko Mara
+ožu 26, 2023 8:36:08 PM main.Main main
+WARNING: Greska: Zaposlenik nemože imati negativnu plaću
+ožu 26, 2023 8:36:08 PM main.Main main
+INFO: Kraj programa.
+ožu 26, 2023 8:36:21 PM main.Main main
+INFO: Pokrenut program
+ožu 26, 2023 8:36:21 PM main.Main main
+INFO: Marko Mara
+ožu 26, 2023 8:36:21 PM main.Main main
+INFO: Ivo Ivek
+ožu 26, 2023 8:36:21 PM main.Main main
+WARNING: Greska: Zaposlenik nemože imati negativnu plaću
+ožu 26, 2023 8:36:21 PM main.Main main
+INFO: Kraj programa.
+ožu 26, 2023 8:46:02 PM main.Main main
+INFO: Pokrenut program
+ožu 26, 2023 8:46:02 PM main.Main main
+INFO: Marko Mara
+ožu 26, 2023 8:46:02 PM main.Main main
+INFO: Ivo Ivek
+ožu 26, 2023 8:46:02 PM main.Main main
+WARNING: Greska: Zaposlenik nemože imati negativnu plaću
+ožu 26, 2023 8:46:02 PM main.Main main
+INFO: Kraj programa.
